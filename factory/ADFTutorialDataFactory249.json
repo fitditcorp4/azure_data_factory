@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactory249",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92b037ca-7efb-4436-a442-7d4e14002881",
+		"tenantId": "8c600126-9416-47cf-9900-0156165d6625"
+	}
+}
